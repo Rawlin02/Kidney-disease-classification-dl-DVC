@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: cnnclassificatier
+Version: 0.0.1
+Summary: CNN classifier for kidney disease classification.
+Author: rawlin
+Author-email: rawlin2002@gmail.com
+Project-URL: Bug Tracker, https://github.com/rawlin/Kidney-disease-classification-deeplearning-project/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: project-url
+Dynamic: summary
+
+# Kidney-disease-classification-dl-DVC
